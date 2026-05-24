@@ -28,12 +28,6 @@ In addition to standard POS functionality, the application includes advanced ana
 - Performance monitoring dashboards
 - Business intelligence reporting
 
-### AI Assistant
-- Integrated AI-powered helper
-- Assists users with application navigation
-- Provides guidance and support within the application
-- Designed to improve user experience and accessibility
-
 ### Reporting
 - Business performance reports
 - Sales summaries
