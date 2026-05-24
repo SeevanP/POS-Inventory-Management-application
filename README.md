@@ -4,7 +4,7 @@
 
 This project is a modern Android-based Point of Sale (POS) and business management application developed in Kotlin. The application is designed to help small businesses manage sales, inventory, and business insights through an intuitive mobile interface.
 
-In addition to standard POS functionality, the application includes advanced analytics and reporting features, providing business owners with valuable insights into sales performance and operational trends.
+In addition to standard POS functionality, the application includes advanced analytics and reporting features, providing business owners with valuable insights into sales performance and operational trends. It also has a desktop companion app built in javascript, which helps with analytics such as charts further allowing a business to navigate and make better decisions.
 
 ---
 
@@ -50,8 +50,7 @@ In addition to standard POS functionality, the application includes advanced ana
 <img width="720" height="1612" alt="HomeScreen" src="https://github.com/user-attachments/assets/b8bd3f24-de7c-4f6b-ab4b-85a80e03220b" />
 
 
-The dashboard provides a high-level overview of business performance, allowing users to quickly assess important metrics and trends.
-
+The dashboard is simple and easy to use. The aim is to ensure people who are not very technical can still navigate through my app.
 ---
 
 ### Sales Management
