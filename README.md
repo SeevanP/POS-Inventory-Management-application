@@ -83,7 +83,7 @@ reliable internet connection inside the store so I opted for this approach to sa
 
 The goal of this project is to provide small businesses with an affordable and accessible platform for managing daily operations while leveraging data analytics to support informed business decisions.
 
-The project combines software development, user experience design, data visualization, and AI-assisted functionality into a single mobile solution.
+The project combines software development, user experience design, data visualization into single mobile solution and a desktop companion app.
 
 ---
 
