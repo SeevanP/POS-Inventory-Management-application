@@ -104,7 +104,6 @@ Planned enhancements include:
 - Expanded reporting features
 - Enhanced AI functionality
 - Cloud synchronization
-- Multi-device support
 - Advanced inventory management features
 
 ---
