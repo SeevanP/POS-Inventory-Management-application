@@ -51,11 +51,17 @@ In addition to standard POS functionality, the application includes advanced ana
 The dashboard is simple and easy to use. The aim is to ensure people who are not very technical can still navigate through my app.
 
 
-<img width="1920" height="1080" alt="Screenshot (343)" src="https://github.com/user-attachments/assets/10337724-574b-434c-8d35-cc996966c6fd" />
 
-<img width="1920" height="1080" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/ccd85e38-bca9-41cb-bc40-5d0a5cb2bf04" />
 
-<img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/5d5c4ca3-d2ff-4dc2-8355-31e5c25ab800" />
+
+<img width="1920" height="1004" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/cd006462-63e3-4749-8a20-2fa921449523" />
+
+<img width="1920" height="995" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/ab69c6c8-a5d8-4ef7-a790-d22ef6044fe4" />
+
+<img width="1920" height="1002" alt="Screenshot (343)" src="https://github.com/user-attachments/assets/af326b62-24d4-43d8-a74a-bb7ac1782986" />
+
+
+
 
 
 
@@ -83,9 +89,10 @@ The sales interface allows efficient transaction processing and product manageme
 
 <img width="720" height="1612" alt="ExportImport" src="https://github.com/user-attachments/assets/dbc92c2a-69a9-4d0b-aaf9-8a5475225c4b" />
 
-<img width="1920" height="1080" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/fc2a99ad-fc10-4dca-b240-8e54ca61434f" />
+<img width="1920" height="1002" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/a3ad0afd-044a-4e67-abc6-b1add6d24751" />
 
-<img width="1920" height="1080" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/3d32346d-8ee1-449b-9d26-1306fa9b8ee8" />
+<img width="1920" height="999" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/f91b6601-3178-4aff-9efa-5c0c9106ec17" />
+
 
 
 
