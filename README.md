@@ -112,6 +112,21 @@ reliable internet connection inside the store so I opted for this approach to sa
 
 ---
 
+## Architecture
+
+- MVVM architecture
+- DAO repository layer
+- Separation between UI, database and domain layers
+
+---
+
+## Offline - sync strategy
+
+- CSV sync based system
+- Timestamp based conflict handling (LWW)
+
+---
+
 ## Project Goals
 
 The goal of this project is to provide small businesses with an affordable and accessible platform for managing daily operations while leveraging data analytics to support informed business decisions.
@@ -138,8 +153,8 @@ Planned enhancements include:
 
 - Additional analytics capabilities
 - Expanded reporting features
-- Enhanced AI functionality
-- Cloud synchronization
+- Enhanced AI functionality for desktop application
+- Cloud synchronization if needed by a client
 - Advanced inventory management features
 
 ---
